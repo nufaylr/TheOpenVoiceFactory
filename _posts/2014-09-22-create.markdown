@@ -1,0 +1,12 @@
+---
+layout: default
+img: play.JPG
+category: Intro
+title: Create your own.
+description: |
+---
+
+
+Upload your Communication aid templates here to create an online Voice!
+
+If you'd like some help getting started, you can download a simple starting template of CK12 or CK20 and look at our help files.

@@ -1,0 +1,12 @@
+---
+layout: default
+img: lowtech.JPG
+category: Intro
+title: About The Open Voice Factory
+description: |
+---
+
+The Open Voice Factory converts communication boards into communication devices. 
+
+The resulting programs run on any platform, from tablets to laptops to phones, without installation or complex setup.
+

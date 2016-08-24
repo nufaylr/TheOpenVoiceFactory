@@ -1,0 +1,9 @@
+---
+layout: default
+img: held.JPG
+category: Intro
+title: Play
+description: |
+---
+
+The demos are fully interactive online versions of the page set. There is a [Portuguese version](http://test.equalitytime.co.uk/azulejoe/releases/v1/ck20/por/) of the CK20 demo, and we have volunteers currently translating for a range of languages. If you are interested in helping us translate the page set to any other language we’d love to hear from you.
