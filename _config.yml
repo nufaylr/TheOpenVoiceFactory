@@ -6,7 +6,7 @@ url: http://yoursite.com
 title: The Open Voice Factory
 email: joe@equalitytime.co.uk
 author: Joe Reddington
-description: > The Open Voice Factory is an open source assistive communication technology that runs on any platform, from tablets to laptops to phones, without installation or complex setup.
+description: The Open Voice Factory is an open source assistive communication technology that runs on any platform, from tablets to laptops to phones, without installation or complex setup.
 copyright: 'Creative Commons Attribution-NonCommercial 4.0 International'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -16,7 +16,6 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 
 # ----------------------- #
 #   3rd Party Settings    #
