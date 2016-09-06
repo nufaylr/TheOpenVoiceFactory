@@ -6,6 +6,7 @@ title: About The Open Voice Factory
 description: |
 ---
 
+
 The Open Voice Factory converts communication boards into communication devices.
 
 Anyone can create an aid by editing a PowerPoint template to add their one pages or utterances.  When you upload your template to the factory, it will create a working communication aid for you. 
@@ -16,3 +17,4 @@ Everything we make is free.  That’s free as in ‘don’t pay for it’ and fr
 
 The sections below let you play with our demos, have a go at creating your own, and find out how you can help. 
 
+<a name="Intro"></a>
