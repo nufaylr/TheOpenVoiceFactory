@@ -5,5 +5,10 @@ category: Intro
 title: Play
 description: |
 ---
+This section lets you play with some examples of things made by the Open Voice Factory.  
 
-The demos are fully interactive online versions of the page set. There is a [Portuguese version](http://test.equalitytime.co.uk/azulejoe/releases/v1/ck20/por/) of the CK20 demo, and we have volunteers currently translating for a range of languages. If you are interested in helping us translate the page set to any other language we’d love to hear from you.
+* [Click here](http://test.equalitytime.co.uk/azulejoe/releases/v2/ck20/en/) to use an aid built by uploading the CK20 page set from the [CommuniKate project](http://communikate.equalitytime.co.uk/).
+* [Click here](http://test.equalitytime.co.uk/azulejoe/releases/v2/ck12/en/) to use an aid build by uploading the simpler CK 12 page set.
+
+
+Currently the aids that the factory builds need an internet connection to work properly.  We’re working on that right now. 

@@ -5,8 +5,11 @@ category: Intro
 title: Create your own.
 description: |
 ---
-
-
-Upload your Communication aid templates here to create an online Voice!
-
 If you'd like some help getting started, you can download a simple starting template of CK12 or CK20 and look at our help files.
+
+We are well aware that many people all around the world are priced out of speech. That’s something we want to change.  We also know that  people who are carers or work in speech needs haven’t got the time to learn to use complex websites and new things.  
+
+The Open Voice Factory is simple.  There are NO usernames, NO passwords.  Just upload a template and you’ll be given a special link that you can always use to get back to the communication device you created. 
+
+You can try it out right now by going to [our upload page](upload_board.html) and making a start by watching our 60 second getting started video. 
+

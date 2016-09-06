@@ -6,7 +6,13 @@ title: About The Open Voice Factory
 description: |
 ---
 
-The Open Voice Factory converts communication boards into communication devices. 
+The Open Voice Factory converts communication boards into communication devices.
+
+Anyone can create an aid by editing a PowerPoint template to add their one pages or utterances.  When you upload your template to the factory, it will create a working communication aid for you. 
 
 The resulting programs run on any platform, from tablets to laptops to phones, without installation or complex setup.
+
+Everything we make is free.  That’s free as in ‘don’t pay for it’ and free as in speech.  All of our code is freely available on github [here](https://github.com/joereddington/TheOpenVoiceFactory) and anyone can change or repurpose without having to ask us first. We’re supported by the volunteers who write the code, create the templates and help out all over. 
+
+The sections below let you play with our demos, have a go at creating your own, and find out how you can help. 
 
