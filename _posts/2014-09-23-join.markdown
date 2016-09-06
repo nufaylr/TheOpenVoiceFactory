@@ -6,9 +6,9 @@ title: Credits
 description: |
 ---
 
+<a name="join"></a>
 The Open Voice Factory relies on volenteers to do things like test, convert, spot errors, and write documentation.  We want to thank all of these people who've already made a contribution to either this or the CommuniKate project. We really couldn't have done it without out you. 
 
-<section id="join">
 
 * Paulo Ricca
 * Brian Whitmer
