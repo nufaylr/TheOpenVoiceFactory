@@ -2,21 +2,51 @@
 layout: default
 img: join.JPG
 category: Main
-title: Join Us
+title: Credits
 description: |
 ---
 
-CommuniKate 12 is available in these formats:
+The Open Voice Factory relies on volenteers to do things like test, convert, spot errors, and write documentation.  We want to thank all of these people who've already made a contribution to either this or the CommuniKate project. We really couldn't have done it without out you. 
 
-### Tobii Dynavox
-*   [DynaVox Series 5](http://equalitytime.co.uk/ck/downloads/ck12/CK12_dynavox.User)
-*   [DynaVox Compass](http://equalitytime.co.uk/ck/downloads/ck12/CK12_dynavox_compass.bzf)
+* Paulo Ricca
+* Brian Whitmer
+* David Niemeijer
+* Hugo Pacheco
+* Will Wade
+* Margarida Pinto
+* Ian Foulger
+* Julie Bello
+* Marlene Padrão
+* José Danado
+* André Nascimento
+* Carla Pinto
+* Miguel Bento Alves
+* Laurine Groux-Moreau
+* Maria Hewett
+* Paul Hewett
+* Gemma Eardley
+* Zak Sly
+* Stef Armitage
+* Alison Lawrence
+* Trevor Mobbs
+* Diana Mountain
+* Fil McIntyre
+* Angie McCormac
+* Janet Mayers
+* Katie Clarke
+* Helen Quiller
+* Helen Dixon
+* Tamsin Crothers
+* Megan Hughes
+* Anna Flynn
+* Janet and Michael Williams
+* Joe Reddington
+* Kate McCallum
+* Kirsty McNaught
+* Steve Canny
+* Tom Bamber
+* Ivona Hristova
+  
 
-#### Sensory Software
-*   [Grid 2 (SymbolStix)](http://equalitytime.co.uk/ck/downloads/ck12/CK12_grid_symbolstix.bdl)
+We're always looking for more people to make a contribution, particular coders, designers, translators and testers. If you like what we are trying to do, please get in touch. 
 
-### AssistiveWare
-*   [Proloquo2go](http://equalitytime.co.uk/ck/downloads/ck12/CK12_p2g.p2gbk)
-
-
-If you'd like to port CommuniKate 12 to a new device then you are absolutely free to do so! (we'd be very grateful if you'd send us the relevant files so that we can put them up here so other people can make use of them). If you'd just like to look at the page sets - then the **PowerPoint design document is [here](https://github.com/joereddington/CommuniKate/blob/master/ck12/CK12+V2.pptx?raw=true)**.

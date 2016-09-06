@@ -35,6 +35,18 @@ h6 {
     background-size: cover;
 }
 
+.page-message {
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.page-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
 .intro-message {
     position: relative;
     padding-top: 20%;
