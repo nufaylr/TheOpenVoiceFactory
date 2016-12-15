@@ -37,3 +37,9 @@ In this video we introduce you to page links and show you how to remove access t
 In this video we introduce an entirely new page from a template and populate it with images and utterances. We finish by showing you how to create links to it.   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OT6BeiLax9o" frameborder="0" allowfullscreen></iframe>
+
+## Introduction to special commands
+
+In this video we show how we can use special commands to change alter the message window, and build up macros. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb5t1pJP7n0" frameborder="0" allowfullscreen></iframe>
