@@ -8,8 +8,8 @@ description: |
 
 This section lets you play with some examples of things made by the Open Voice Factory.  
 
-* [Click here](http://test.equalitytime.co.uk/azulejoe/releases/v2/ck20/en/) to use an aid built by uploading the CK20 page set from the [CommuniKate project](http://communikate.equalitytime.co.uk/).
-* [Click here](http://test.equalitytime.co.uk/azulejoe/releases/v2/ck12/en/) to use an aid build by uploading the simpler CK 12 page set.
+* [Click here](http://joereddington.github.io/CommuniKate/demos/CK20V2.pptx/) to use an aid built by uploading the CK20 page set from the [CommuniKate project](http://communikate.equalitytime.co.uk/).
+* [Click here](http://joereddington.github.io/CommuniKate/demos/CK12+V2.pptx/) to use an aid build by uploading the simpler CK 12 page set.
 
 
 Currently the aids that the factory builds need an internet connection to work properly.  We’re working on that right now. 
